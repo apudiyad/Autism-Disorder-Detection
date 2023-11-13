@@ -50,4 +50,29 @@ Auckland, New Zealand
 
 ## Details about code:
 
-Modules to be installed: numpy pandas from time import time\n", IPython.display seaborn matplotlib.pyplot sklearn.preprocessing.MinMaxScaler sklearn.model_selection.train_test_split sklearn.tree sklearn.tree.DecisionTreeClassifier pydotplus IPython.display.Image sklearn.metrics sklearn.ensemble.RandomForestClassifier sklearn.metrics.fbeta_score sklearn.neighbors sklearn.naive_bayes.MultinomialNB sklearn.linear_model.LogisticRegression sklearn.metrics.accuracy_score sklearn.metrics.make_scorer sklearn.svm.SVC sklearn.model_selection.GridSearchCV sklearn.ensemble.GradientBoostingClassifier keras keras.models.Sequential
+### Modules to be installed: 
+- numpy
+- pandas
+- from time import time\n",
+- IPython.display
+- seaborn
+- matplotlib.pyplot
+- sklearn.preprocessing.MinMaxScaler
+-  sklearn.model_selection.train_test_split
+-  sklearn.tree
+-  sklearn.tree.DecisionTreeClassifier
+-  pydotplus
+-  IPython.display.Image
+- sklearn.metrics
+- sklearn.ensemble.RandomForestClassifier
+- sklearn.metrics.fbeta_score
+- sklearn.neighbors
+- sklearn.naive_bayes.MultinomialNB
+- sklearn.linear_model.LogisticRegression
+- sklearn.metrics.accuracy_score
+- sklearn.metrics.make_scorer
+- sklearn.svm.SVC
+- sklearn.model_selection.GridSearchCV
+- sklearn.ensemble.GradientBoostingClassifier
+- keras
+- keras.models.Sequential
